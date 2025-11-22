@@ -4,12 +4,9 @@
     <title>Projects on Backend engineer Ivan Krivonos</title>
     <link>https://devbackend.com/projects/</link>
     <description>Recent content in Projects on Backend engineer Ivan Krivonos</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 May 2019 14:00:00 +1000</lastBuildDate>
-    
-	<atom:link href="https://devbackend.com/projects/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://devbackend.com/projects/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
